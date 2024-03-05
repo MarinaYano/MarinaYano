@@ -4,7 +4,9 @@
 - 🏉 I love watching sports games like rugby, volleyball, table tennis, and more.
 
 ### Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,nodejs,express,mongodb,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,rails)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,wordpress,figma)](https://skillicons.dev)
 
