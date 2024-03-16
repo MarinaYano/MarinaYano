@@ -1,14 +1,14 @@
 ## Hi there 👋 I'm Marina!
 
-- 🌱 I’m currently learning front-end languages at college.
+- 🌱 I’m currently learning web development at college.
 - 🏉 I love watching sports games like rugby, volleyball, table tennis, and more.
 
 ### Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,wordpress,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,githubactions,wordpress,figma)](https://skillicons.dev)
 
 
 <br>
