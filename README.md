@@ -8,7 +8,7 @@
 <br>
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,postgres)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=aws,git,githubactions,docker,bun,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,githubactions,docker,figma)](https://skillicons.dev)
 
 
 <br>
