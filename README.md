@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning web development at college.
 - 🏉 I love watching sports games like rugby, volleyball, table tennis, and more.
 
-### Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,django,sass,tailwind,bootstrap,materialui)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,prisma,mongodb,postgres)](https://skillicons.dev)
-<br>
+#### Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,sass,tailwind,bootstrap,materialui)](https://skillicons.dev)
+#### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,django,prisma,mongodb,postgres)](https://skillicons.dev)
+#### Other tools
 [![My Skills](https://skillicons.dev/icons?i=aws,git,githubactions,docker,figma)](https://skillicons.dev)
 
 
